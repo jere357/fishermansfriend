@@ -39,7 +39,7 @@ Features in mind for the future:
 * Monitor only the y axis, no need to calculate distance
 * Don't save pictures to the drive but keep then in memory instead (~7% faster detection time)
 * Make it a console runnable application with argument parsing from the command line
-
+* A youtube demo
 Contact:
 --------
 jeronim96@gmail.com or here
