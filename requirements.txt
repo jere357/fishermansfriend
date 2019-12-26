@@ -1,0 +1,3 @@
+numpy==1.13.3
+PyAutoGUI==0.9.48
+skimage==0.0
