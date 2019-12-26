@@ -34,7 +34,7 @@ Ban Safety:
 -----------
 * The nice thing about python fishbots is that they are undetectable by Warden or any other anti-hack tools used in wow. This is because they run outside of the world of warcraft client. All they do is move your cursor, take screen shots, press a few keyboard keys, and right click. They don't interact with the game in the way that detectable bots do.
 
-Features in-mind for the future:
+Features in mind for the future:
 --------------------------------
 * Monitor only the y axis, no need to calculate distance
 * Don't save pictures to the drive but keep then in memory instead (~7% faster detection time)
