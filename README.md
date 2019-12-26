@@ -18,11 +18,11 @@ Sadly the bot no longer works on retail wow. It should still work on private ser
 Instructions: 
 -----------------
 * Turn on autoloot in wow
-* Run "fishermansfriend.py"
-* Switch to your world of warcraft window
-* Equip a fishing rod and bind fishing to T - line 48 in fishermansfriend.py.
+* Equip a fishing rod and bind fishing to T or edit line 48 in fishermansfriend.py.
 * Face your character towards the water
 * Go into first person view (scroll all the way to your face)
+* Run "fishermansfriend.py"
+* Switch to your world of warcraft window (you have 3 seconds to do so)
 
 Variables you maybe want to adjust:
 ---------------
