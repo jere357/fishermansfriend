@@ -9,7 +9,6 @@ import pdb
 import time
 import pyautogui
 import cv2 as cv
-from matplotlib import pyplot as plt
 
 def detect_screenshot(template):
     t1= time.time()
