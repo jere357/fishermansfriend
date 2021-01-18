@@ -11,3 +11,5 @@ Setup:
 * 6. run the bot with "python fisherman2.py"
 
 for all other questions refer to the non openCV readme file :)
+
+There is a picture of the bobber in wailing caverns which the bot uses for detection, if you feel like it could be working better you can take your screenshot and replace the "wcbobber.png" with it 
