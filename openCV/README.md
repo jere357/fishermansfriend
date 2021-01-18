@@ -3,7 +3,7 @@
 Setup:
 --------------
 * 1. Download python 3 on your computer (https://www.python.org/downloads/)
-* 2. google "how to install python 3 pip on windows", then do so.
+* 2. google "how to install pip for python windows", then do so.
 * 3. open your cmd ( Windows key + R and type cmd)
 * 4. run these commands: "pip install pyautogui"
                          "pip install pip install opencv-python"
