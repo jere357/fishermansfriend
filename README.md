@@ -11,6 +11,11 @@ Requirements:
 * 4. Install pyautogui, skimage (sklearn), and numpy
 * 5. Download the darknet weights from https://drive.google.com/file/d/1qtDV3-uC38BrkGL5lnacmWp96RqHKhft/view?usp=sharing and place them into this folder or change the weight path at line 36 in fishermansfriend.py
 
+Video Demo:
+--------------
+https://youtu.be/iax2S7DT20w
+this video is shot on a private server
+
 Notice: 
 -----------------
 Sadly the bot no longer works on retail wow. It should still work on private server if you dabble in such activities. It is my theory that blizzard developed a method to detect synthetic keyboard and mouse usage. When it detects synthetic mouse and KB usage it makes the game spawn a useless bobber. This bobber never enter the water (no fish ever get caught), and it doesn't disappear after your fishing spell ends channeling (?). I currently have no solution for this
